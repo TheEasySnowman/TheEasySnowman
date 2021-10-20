@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @TheEasySnowman
+- Interested in system mechanics and tinkering with game development
